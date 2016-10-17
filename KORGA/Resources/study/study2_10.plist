@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>누가 그림을 훔쳤습니까?</string>
+		<string>전화받는 사람은 누구입니까?</string>
+		<string>무엇을 훔쳤습니까? </string>
+		<string>어떻게 도둑은 집을 탈출하였습니까?</string>
+		<string>언제 물건을 도난당했습니까?</string>
+		<string>어디에서 물건을 도난당했습니까?</string>
+		<string>범인은 왜 물건을 훔쳤습니까?</string>
+		<string>무슨 이유로 나를 불렀습니까?</string>
+		<string>화성은 어떤 형태입니까? </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>Who stole the painting?</string>
+		<string>Who is this on the line?</string>
+		<string>What did you steal?</string>
+		<string>How could the thief escape?</string>
+		<string>When were you robbed?</string>
+		<string>where were you robbed?</string>
+		<string>Why did the thief stole that?</string>
+		<string>For what reason did you bring me here?</string>
+		<string>Which shape is Mars? </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Collection of question</string>
+		<string>누가:  누구(who) + 가( a particle for subject)@@그림:  painting@@훔치다: steal</string>
+		<string>전화받다: answer@@사람: person@@누구입니까?: who is?</string>
+		<string>무엇을: 무엇(what) + 을(a particle for object)@@훔치다: steal</string>
+		<string>어떻게: how@@도둑: a thief@@탈출하다: escape</string>
+		<string>언제: when@@물건: a thing@@ 도난당하다:  be robbed</string>
+		<string>어디에서: where</string>
+		<string>범인: a suspect@@ 왜: why</string>
+		<string>무슨 이유: for what reason@@부르다: call</string>
+		<string>화성: mars@@어떤  형태:  which shape</string>
+	</array>
+</dict>
+</plist>

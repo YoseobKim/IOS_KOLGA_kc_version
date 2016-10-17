@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>지금 몇 시입니까?</string>
+		<string>아홉시입니다. </string>
+		<string>영화는 언제 시작합니까?</string>
+		<string>다섯시 삼십분에 시작합니다. </string>
+		<string>이 경기는 얼마나 오래 계속됩니까?</string>
+		<string>이 경기는 두 시간 동안 계속됩니다. </string>
+		<string>얼마나 오래 직장을 다녔습니까?</string>
+		<string>사십년 동안 직장을 다녔습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>What time is it now?</string>
+		<string>It is 9 o&apos;clock.</string>
+		<string>What time does the movie begin.</string>
+		<string>The movie begins at 5:30.</string>
+		<string>How long this match continues?</string>
+		<string>This match will go on for 2 hours long.</string>
+		<string>How long have you go to office?</string>
+		<string>I have been going this office for 40 years.</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>When</string>
+		<string>지금: now@@몇 시: what time</string>
+		<string>아홉시: 9 o&apos;clock</string>
+		<string>영화: move@@언제: when@@시작하다: begin</string>
+		<string>다섯시 삼십분: 5:30</string>
+		<string>경기: match@@얼마나 오래:  how long@@계속 되다: continue</string>
+		<string>두 시간: 2 hours@@동안: during</string>
+		<string>얼마나 오래: how long@@ 직장을 다니다: work</string>
+		<string>사십년: 40 years@@동안: during</string>
+	</array>
+</dict>
+</plist>

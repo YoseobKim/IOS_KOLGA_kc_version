@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>I would like to buy a pair of climbing shoes.</string>
+		<string>How much does it cost?</string>
+		<string>Do you have a bigger size?</string>
+		<string>Will you show me one with different color?</string>
+		<string>Do you have cheaper one?</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>등산화를</string>
+		<string>구두를</string>
+		<string>어그부츠를</string>
+		<string>사고</string>
+		<string>먹고</string>
+		<string>팔고</string>
+		<string>싶은데요.</string>
+		<string>없는데요.</string>
+		<string>있는데요.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>가격이</string>
+		<string>가죽이</string>
+		<string>가방이</string>
+		<string>얼마인가요?</string>
+		<string>얼굴인가요?</string>
+		<string>언제인가요?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>더 큰</string>
+		<string>더 작은</string>
+		<string>더 중간의</string>
+		<string>사이즈가</string>
+		<string>사이판이</string>
+		<string>사인펜이</string>
+		<string>있나요?</string>
+		<string>없나요?</string>
+		<string>있을까요?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>다른</string>
+		<string>같은</string>
+		<string>멋있는</string>
+		<string>색깔로</string>
+		<string>색소로</string>
+		<string>크기로</string>
+		<string>보여주시겠습니까?</string>
+		<string>봐주시겠습니까?</string>
+		<string>주시겠습니까?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>좀 더</string>
+		<string>좀 적게</string>
+		<string>딱 맞게</string>
+		<string>싼 것은</string>
+		<string>비싼 것은</string>
+		<string>중간 것은</string>
+		<string>없습니까?</string>
+		<string>있습니까?</string>
+		<string>있을까요?</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>등산화를 사고 싶은데요.</string>
+		<string>가격이 얼마인가요?</string>
+		<string>더 큰 사이즈가 있나요?</string>
+		<string>다른 색깔로 보여주시겠습니까?</string>
+		<string>좀 더 싼 것은 없습니까?</string>
+	</array>
+</dict>
+</plist>

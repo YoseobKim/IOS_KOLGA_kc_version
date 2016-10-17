@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>이번 주말에 뭐하세요?</string>
+		<string>이번 휴가 어디가세요?</string>
+		<string>오후에 뭐하세요?</string>
+		<string>50년 후엔 무엇을 할 계획입니까?</string>
+		<string>이번 주말에 등산을 할 계획입니다. </string>
+		<string>내일 집에서 쉴 예정입니다. </string>
+		<string>저는 아마 부산에 갈 것입니다. </string>
+		<string>식당에서 밥을 먹을 것입니다. </string>
+		<string>50년 후면 저는 이세상에 없을 것입니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>What do you do on this weekends?</string>
+		<string>Where do you go for coming vacation?</string>
+		<string>What will you do afternoon?</string>
+		<string>What is your plan for life after 50 years later?</string>
+		<string>At this weekends I am planning to hike. </string>
+		<string>I will take a rest at home. </string>
+		<string>Maybe I will to Busan.</string>
+		<string>I will eat meal at restaurant. </string>
+		<string>I will be not in this world after 50 years later. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>What I will do</string>
+		<string>이번: this, coming@@뭐하다:  do what</string>
+		<string>휴가: vacation@@어디가다:  go where</string>
+		<string>오후: afternoon</string>
+		<string>50년 후: after 50 years@@하다: do@@계획이다: plan to</string>
+		<string></string>
+		<string>쉬다: rest@@예정이다: plan to</string>
+		<string>아마: maybe@@부산: Busan@@가다: go@@~ㄹ 것이다: will do</string>
+		<string>식당: a restaurant@@밥: meal@@먹다: eat@@~ㄹ 것이다: will do</string>
+		<string>50년 후: after 50 years@@이 세상: this world@@없다: not here, don&apos;t have</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string> What is your daily routine?</string>
+		<string>What do you do at weekends?</string>
+		<string>I wake up at 7:00.</string>
+		<string>I go for work till 9:00.</string>
+		<string>I meet my friends at weekends.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<string>3</string>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>주말에는</string>
+		<string>하루 일과가</string>
+		<string>저는</string>
+		<string>친구를</string>
+		<string>무엇을</string>
+		<string>어떻게</string>
+		<string>입니까?</string>
+		<string>합니까?</string>
+		<string>됩니까?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>주말에</string>
+		<string>하루 일과가</string>
+		<string>회사에</string>
+		<string>무엇을</string>
+		<string>누구를</string>
+		<string>어디를</string>
+		<string>입니까?</string>
+		<string>합니까?</string>
+		<string>됩니까?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>저는</string>
+		<string>연아씨는</string>
+		<string>친구는</string>
+		<string>아침 7시에</string>
+		<string>저녁에</string>
+		<string>저녁 7시에</string>
+		<string>일어납니다.</string>
+		<string>출근합니다. </string>
+		<string>만납니다.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>학교에</string>
+		<string>집에</string>
+		<string>회사에</string>
+		<string>저녁 7시에</string>
+		<string>9시까지</string>
+		<string>늦게까지</string>
+		<string>일어납니다.</string>
+		<string>출근합니다.</string>
+		<string>만납니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>주말에는</string>
+		<string>집에</string>
+		<string>회사에</string>
+		<string>친구를</string>
+		<string>무엇을</string>
+		<string>어떻게</string>
+		<string>일어납니다.</string>
+		<string>출근합니다.</string>
+		<string>만납니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>하루 일과가 어떻게 됩니까?</string>
+		<string>주말에 무엇을 합니까?</string>
+		<string>저는 아침 7시에 일어납니다.</string>
+		<string>회사에 9시까지 출근합니다.</string>
+		<string>주말에는 친구를 만납니다.</string>
+	</array>
+</dict>
+</plist>

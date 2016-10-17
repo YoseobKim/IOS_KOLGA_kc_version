@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>where</string>
+		<string>summer vacation</string>
+		<string>during weekend</string>
+		<string>go</string>
+		<string>during vacation</string>
+		<string>fun weekends</string>
+		<string>regretful</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>어디</string>
+		<string>여름 휴가</string>
+		<string>주말 동안</string>
+		<string>가다</string>
+		<string>뒹굴거리다</string>
+		<string>즐거운 주말</string>
+		<string>후회되는</string>
+	</array>
+</dict>
+</plist>

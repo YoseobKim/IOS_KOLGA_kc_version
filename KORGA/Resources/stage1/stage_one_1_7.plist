@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>Korean</string>
+		<string>Japanese</string>
+		<string>can speak (do)</string>
+		<string>can&apos;t speak well</string>
+		<string>can&apos;t eat</string>
+		<string>will not eat</string>
+		<string>drive</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>한국말</string>
+		<string>일본말</string>
+		<string>할 수 있습니다</string>
+		<string>잘 못합니다</string>
+		<string>못먹습니다</string>
+		<string>안먹습니다</string>
+		<string>운전하다</string>
+	</array>
+</dict>
+</plist>

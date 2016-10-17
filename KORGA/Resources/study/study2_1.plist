@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>동생은 어제 학교에 가지 않았습니다. </string>
+		<string>왜냐하면 동생이 아팠기 때문입니다. </string>
+		<string>왜 어제 먼저 갔습니까?</string>
+		<string>미안합니다. 어제 기분이 좋지 않았습니다. </string>
+		<string>무엇 때문에 숙제를 안했습니까?</string>
+		<string>월드컵 경기 때문입니다. </string>
+		<string>동생 때문에 늦었습니다. </string>
+		<string>합격을 축하합니다. </string>
+		<string>이게 다 선생님 덕분입니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>My brother didn&apos;t go to school yesterday. </string>
+		<string>Becasuse my brother was sick.</string>
+		<string>Why did you leave us so early yesterday?</string>
+		<string>I am sorry. I was in bad mood.</string>
+		<string>Why didn&apos;t you do your homework?</string>
+		<string>Because of the World cup league.</string>
+		<string>I was late cause of my brother. </string>
+		<string>Conglatulation on your pass.</string>
+		<string>All my success is because of you.</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Reason</string>
+		<string>학교: school@@가지 않다: don&apos;t go</string>
+		<string>왜냐하면: because@@아프다: sick@@때문이다: that&apos;s why</string>
+		<string>왜: why@@어제: yesterday@@가다: go</string>
+		<string>미안하다: sorry@@기분: feeling@@좋지 않다:  not good</string>
+		<string>무엇 때문에: for what reason@@ 숙제: homework@@안하다: not do</string>
+		<string>월드컵 경기: worldcup league@@때문입니다: that&apos;s why~</string>
+		<string>때문에:  because of@@늦다: be late</string>
+		<string>합격: pass of examination@@축하하다: congratulate</string>
+		<string> 이게: this is@@다: all together@@선생님: teacher@@ ~덕분입니다: attribute to~</string>
+	</array>
+</dict>
+</plist>

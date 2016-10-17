@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>lost way</string>
+		<string>near</string>
+		<string>walk</string>
+		<string>where is?</string>
+		<string>turn left</string>
+		<string>over there</string>
+		<string>take a bus</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>길 잃다</string>
+		<string>가까운</string>
+		<string>걷다</string>
+		<string>어디에 있습니까?</string>
+		<string>좌회전 하세요</string>
+		<string>저기서</string>
+		<string>버스를 타다</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>이쪽은 제 친구입니다.</string>
+		<string>이분은 저의 어머니입니다. </string>
+		<string>제 친구는 학생입니다. </string>
+		<string>제 어머니는 선생님입니다.</string>
+		<string>제 친구는 착합니다. </string>
+		<string>제 어머니는 친절합니다.</string>
+		<string>제 여동생은 예쁩니다. </string>
+		<string>하늘이 파랗습니다. </string>
+		<string>날씨가 춥습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>This is my friend. </string>
+		<string>This is my mother. </string>
+		<string>My friend is a student. </string>
+		<string>My mother is a teacher. </string>
+		<string>My friend is nice. </string>
+		<string>My mother is kind.</string>
+		<string>My sister is pretty. </string>
+		<string>Sky is blue.</string>
+		<string>It is cold today. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Describing someone</string>
+		<string>이쪽: this@@제: my (honorific)@@친구: a friend</string>
+		<string>이분: this person (honorific)@@저의: my (honorific)@@어머니: a mother</string>
+		<string></string>
+		<string>선생님: a teacher</string>
+		<string>착합니다: (b.착하다) nice (honorific)</string>
+		<string>친절합니다: (b.친절하다) kind (honorific)</string>
+		<string>여동생: a younger sister@@예쁩니다: (b.예쁘다) pretty</string>
+		<string>하늘: sky@@파랗습니다: (b.파랗다) blue</string>
+		<string>날씨: weather@@춥습니다 : (b.춥다) cold, chill</string>
+	</array>
+</dict>
+</plist>

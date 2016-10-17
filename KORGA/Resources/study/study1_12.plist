@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>주말에 뭐했어요?</string>
+		<string>어제 뭐했어요?</string>
+		<string>여름 휴가 때 어디에 갔어요?</string>
+		<string>주말동안 집에서 잠만 잤습니다. </string>
+		<string>주말에 등산갔습니다. </string>
+		<string>어제 애인과 데이트했습니다. </string>
+		<string>집에서 뒹굴거렸습니다. </string>
+		<string>매우 즐거운 주말이었습니다. </string>
+		<string>후회되는 주말이었습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>What did you do at weekends?</string>
+		<string>What did you do yesterday?</string>
+		<string>Where did you go at your summer vacation?</string>
+		<string>I did sleep all through my weekend at home.</string>
+		<string>I went for hike.</string>
+		<string>Yesterday I did date with my girl friend.</string>
+		<string>I rolled over at my room. </string>
+		<string>That was very fun weekends.</string>
+		<string>That was regretful weekends.</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>What you did last week</string>
+		<string>주말: weekends@@뭐했어요: what (you) did</string>
+		<string>어제:  yesterday</string>
+		<string>여름: summer@@휴가: vacation@@어디에: where@@갔어요: went</string>
+		<string>주말: weekends@@동안: during@@집: home, house@@잤습니다: slept</string>
+		<string>등산갔습니다:  go for a hike</string>
+		<string>어제: yesterday@@애인: girl friend/boy friend@@과: with together@@데이트했습니다: go for a date</string>
+		<string>집: home, house@@뒹굴거렸습니다: role over</string>
+		<string>매우: very@@즐거운: fun</string>
+		<string>후회되는:regretful</string>
+	</array>
+</dict>
+</plist>

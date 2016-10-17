@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>떡볶이</string>
+		<string>간장게장</string>
+		<string>김밥</string>
+		<string>김치</string>
+		<string>냉면</string>
+		<string>생선 구이</string>
+		<string>된장찌개</string>
+		<string>떡갈비</string>
+		<string>부대찌개</string>
+		<string>불고기</string>
+		<string>비빔밥</string>
+		<string>삼겹살</string>
+		<string>삼계탕</string>
+		<string>홍어회</string>
+		<string>송편</string>
+		<string>구절판</string>
+		<string>수정과</string>
+		<string>순대</string>
+		<string>신선로</string>
+		<string>육회</string>
+		<string>젓갈</string>
+		<string>조개구이</string>
+		<string>밥</string>
+		<string>해물탕</string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Tteokbokki</string>
+		<string>Gejang</string>
+		<string>Gimbap</string>
+		<string>Kimchi</string>
+		<string>Naengmyeon</string>
+		<string>Grilled fish</string>
+		<string>Doenjang jjigae</string>
+		<string>Tteokgalbi</string>
+		<string>Budae jjigae</string>
+		<string>Bulgogi</string>
+		<string>Bibimbap</string>
+		<string>Samgyeopsal</string>
+		<string>Samgyetang</string>
+		<string>Hongeohoe</string>
+		<string>Songpyeon</string>
+		<string>Gujeolpan</string>
+		<string>Sujeonggwa</string>
+		<string>Sundae</string>
+		<string>Sinseollo</string>
+		<string>Yukhoe</string>
+		<string>Jeotgal</string>
+		<string>jogae gui</string>
+		<string>Bap</string>
+		<string>Haemultang</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Tteokbokki, also known as Ddeokbokki or topokki, is a popular Korean snack food which is commonly purchased from street vendors or Pojangmacha. Originally it was called tteok jjim (떡찜), and was a braised dish of sliced rice cake, meat, eggs, and seasoning.</string>
+		<string>Gejang or gejeot is a variety of jeotgal, salted fermented seafood in Korean cuisine, which is made by marinating fresh raw crabs either in ganjang (soy sauce) or in a sauce based on chili pepper powder. The term consists of the two words; ge, meaning &quot;a crab&quot;, and jang which means &quot;condiment&quot; in Korean.</string>
+		<string>Gimbap or kimbap is a popular Korean dish made from steamed white rice (bap) and various other ingredients, rolled in gim (sheets of dried laver seaweed) and served in bite-size slices. Gimbap is often eaten during picnics or outdoor events, or as a light lunch, served with danmuji or kimchi.</string>
+		<string>Kimchi (Korean: 김치;  /ˈkɪmtʃi/), also spelled gimchi, kimchee, or kim chee, is a traditional fermented Korean dish made of vegetables with a variety of seasonings. There are hundreds of varieties of kimchi made with a main vegetable ingredient such as napa cabbage, radish, scallion, or cucumber. </string>
+		<string>Raengmyeon (Korean: 랭면 (North Korea), 냉면 (South Korea), also known as naeng-myeon, naengmyun, or naeng-myun, meaning &quot;cold noodles&quot;) is a Korean noodle dish of long and thin handmade noodles made from the flour and starch of various ingredients: buckwheat (메밀, memil), potatoes, sweet potatoes, 칡냉면, naengmyun made with the starch from arrowroot (darker color and chewier than buckwheat noodles), and kudzu (칡, chik). Varieties with ingredients such as seaweed and green tea are available. According to the 19th century documents of Dongguksesigi (동국세시기, 東國歲時記), it has been made since the Joseon Dynasty.</string>
+		<string>Gui or guee (Korean pronunciation: [kuː.i]) is a generic term to refer to grilled dishes in Korean cuisine. These most commonly have meat or fish as their primary ingredient, but may in some cases also comprise grilled vegetables or other vegetarian ingredients.</string>
+		<string>Doenjang jjigae is a variety of jjigae or stew-like Korean traditional dish, made with doenjang (Korean soybean paste) and available ingredients such as vegetables, mushrooms, seafood, or dubu (tofu).</string>
+		<string>Tteokgalbi is a type of Korean food made from galbi, or short ribs. It is made by shaping a mixture of beef and pork into a rectangular appearance then grilled on charcoal. The reason pork and beef are mixed is that beef alone is too dry, so pork is added to make it more fatty. The leftover rib bones are sometimes boiled to make broth.</string>
+		<string>Budae jjigae (Korean pronunciation: [pudɛ tɕ͈iɡɛ]; lit. &quot;army base stew&quot;) is a type of jjigae (a thick Korean soup similar to a Western stew). Soon after the Korean War, food was scarce in Seoul, South Korea. Some people made use of surplus foods from U.S. Army bases around the Uijeongbu area, Pyeongtaek area (also called Songtan) or Munsan area, such as hot dogs, canned ham, and Spam, and incorporated them into a traditional spicy soup flavored with gochujang (red chili paste) and kimchi.</string>
+		<string>Bulgogi (Korean pronunciation: [pulɡoɡi]) or neobiani[1] is a Korean dish that usually consists of marinated barbecued beef, chicken or pork. It is listed at number 23 on World&apos;s 50 most delicious foods readers&apos; poll compiled by CNN Go in 2011.</string>
+		<string>Bibimbap (비빔밥, Korean pronunciation: [pibimp͈ap̚]) is a signature Korean dish. The word literally means &quot;mixed meal&quot; or &quot;mixed rice&quot;. Bibimbap is served as a bowl of warm white rice topped with namul (sautéed and seasoned vegetables) and gochujang (chili pepper paste). A raw or fried egg and sliced meat (usually beef) are common additions. The ingredients are stirred together thoroughly just before eating. It can be served either cold or hot.</string>
+		<string>Samgyeopsal (삼겹살; Korean pronunciation: [samɡjʌp̚sal]) is a popular Korean dish. Commonly served as an evening meal, it consists of thick, fatty slices of pork belly meat (similar to uncured bacon). The meat, usually neither marinated nor seasoned, is cooked on a grill at the diners&apos; table.</string>
+		<string>Samgyetang (Korean pronunciation: [samɡjetʰaŋ]) is a variety of guk or Korean soup, which primarily consists of a whole young chicken and Korean ginseng. The dish&apos;s name literally translates as &quot;&apos;ginseng chicken soup&quot; in English.</string>
+		<string>Hongeohoe is a type of fermented fish dish from Korea. Hongeohoe is made from skate and has a strong characteristic ammonia-like odor. It is usually served uncooked without any other additional preparation along with other Korean side dishes such as kimchi.</string>
+		<string>Songpyeon (Korean pronunciation: [soŋpʰjʌn]) is a traditional Korean food made of glutinous rice. It is a variation of tteok, consisting of small rice cakes traditionally eaten during the Korean autumn harvest festival, Chuseok.</string>
+		<string>Gujeolpan refers to either an elaborate Korean dish consisting of nine different foods assorted on a wooden plate with nine divided sections in an octagon shape or the plate itself. The name is composed of three hanja words: gu (구, &quot;nine&quot; ), jeol (절, &quot;section&quot;), and pan (판, &quot;plate&quot;) in Korean. </string>
+		<string>Sujeonggwa is a Korean traditional fruit punch. Dark reddish brown in color, it is made from dried persimmons, cinnamon, ginger, peppercorn and is often garnished with pine nuts. The punch is made by brewing first the cinnamon, ginger and peppercorn at a slow boil.</string>
+		<string>Sundae (Korean pronunciation: [sundɛ], also sometimes spelled sondae) is a Korean dish made generally by boiling or steaming cow or pig&apos;s intestines that are stuffed with various ingredients. It is a kind of blood sausage and believed to have been eaten for a long time.</string>
+		<string>Sinseollo or yeolguja tang is an elaborate dish consisting of meatballs, small and round jeonyueo (전유어), mushrooms, and vegetables cooked in a rich broth in Korean royal court cuisine. The dish is a form of jeongol (elaborate chowder-like stew). It is served in a large silver vessel with a hole in the center, in which hot embers are placed to keep the dish hot throughout the meal.</string>
+		<string>Yukhoe (Korean pronunciation: [jukɸø] ~ [jukɸe]) refers to a variety of hoe (raw dishes in Korean cuisine), which are usually made from raw ground beef seasoned with various spices or sauces. It is basically a Korean steak tartare. Usually the most tender part of beef will be used. The beef is thinly julienned with the fat removed, then mixed with seasoning.</string>
+		<string>Jeotgal or jeot (Korean pronunciation: [tɕʌt̚k͈al]) is a salted fermented food in Korean cuisine. It is made with various seafood, such as shrimp, oysters, shellfish, fish, fish eggs, and fish intestines.
+Jeotgal is mainly used as a condiment in pickling kimchi and as a dipping sauce for pig&apos;s feet (jokbal) and blood/noodle sausage (sundae).</string>
+		<string>grilled shellfish</string>
+		<string>Bap (Korean: 밥) is a term used for the grains cooked in Korean cuisine. The baps are rice, barley, beans and many other grains.</string>
+		<string>Guk (국, Korean pronunciation: [kuk̚]), also sometimes known as Tang (탕, Korean pronunciation: [tʰaŋ]), is a class of soup-like dishes in Korean cuisine. Guk and tang are commonly grouped together and regarded as the same type of dish, although guk is more watery and a basic dish for the Korean table setting, and is usually eaten at home. On the other hand, tang has less water than guk and has been developed for sale in restaurants. Haemultang is made with various seafood.</string>
+	</array>
+</dict>
+</plist>

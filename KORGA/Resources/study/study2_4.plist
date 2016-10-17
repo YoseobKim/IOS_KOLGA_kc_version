@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>점심 뭐 먹을까요?</string>
+		<string>불고기는 어떻습니까?</string>
+		<string>근처에 아는 식당이 있습니까?</string>
+		<string>자주 가는 한식당이 있습니다. </string>
+		<string>한식 괜찮습니까?</string>
+		<string>햄버거 먹으러 갈까요?</string>
+		<string>네, 좋습니다. </string>
+		<string>음식이 맛있었습니다. </string>
+		<string>음식이 맛없었습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>What shall we eat for lunch?</string>
+		<string>What about Bulgogi?</string>
+		<string>Do you know nice restaurants near here?</string>
+		<string>Yes, there is a Korean restaurant I frequently go.</string>
+		<string>Is Korean food Ok for you?</string>
+		<string>Shall we go for a burger?</string>
+		<string>Yes, good for me.</string>
+		<string>The food was delicious.</string>
+		<string>The food was not delicious. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>What I like</string>
+		<string>점심: lunch</string>
+		<string>어떻습니까: what about...</string>
+		<string>근처에: nearby@@알다: know</string>
+		<string>자주: frequently@@한식당: Korean restaurant</string>
+		<string>한식: Korean food@@괜찮다: alright</string>
+		<string>햄버거: hamburger@@먹다: eat</string>
+		<string>좋다: like, be good</string>
+		<string>맛있다: delicious</string>
+		<string>맛없다: not deliciois</string>
+	</array>
+</dict>
+</plist>

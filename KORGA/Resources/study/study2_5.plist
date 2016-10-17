@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>여기 주문하겠습니다.</string>
+		<string>메뉴판 보여주시겠습니까?</string>
+		<string>불고기 2인분 주십시오.</string>
+		<string>잘 먹겠습니다.</string>
+		<string>맛있게 드십시오.</string>
+		<string>소스를 더 주시겠습니까?</string>
+		<string>계산은 제가 하겠습니다. </string>
+		<string>여기 계산서 주십시오. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>I would like to order.</string>
+		<string>Would you show me a menu plate?</string>
+		<string>We would like to have Bulgogi for 2 people.</string>
+		<string>I will eat gratfully.</string>
+		<string>Help yourself.(Literally &quot;Eat much.&quot;)</string>
+		<string>May I have more sauce?</string>
+		<string>I will pay for this.</string>
+		<string>Will you bring me a bill?</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>At restaurant</string>
+		<string>여기: here@@주문: order</string>
+		<string>메뉴판:menu@@보여주다: show</string>
+		<string>2인분:(food) for 2 person</string>
+		<string></string>
+		<string>들다: (honorific) eat</string>
+		<string>소스: sauce@@주다: give</string>
+		<string>계산: pay, calculate</string>
+		<string>계산서: bill</string>
+	</array>
+</dict>
+</plist>

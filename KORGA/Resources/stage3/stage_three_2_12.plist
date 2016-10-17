@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>May I go home now?</string>
+		<string>Yes, you can go home.</string>
+		<string>Can I drink this milk?</string>
+		<string>Can&apos;t I stay home without not going to work today?</string>
+		<string>Can I borrow this book? </string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>4</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>지금</string>
+		<string>나중에</string>
+		<string>내일</string>
+		<string>집에</string>
+		<string>회사에</string>
+		<string>카페에</string>
+		<string>가도</string>
+		<string>와도</string>
+		<string>있어도</string>
+		<string>될까요?</string>
+		<string>됩니다?</string>
+		<string>주세요?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>집에</string>
+		<string>회사에</string>
+		<string>카페에</string>
+		<string>가셔도</string>
+		<string>가시면</string>
+		<string>있으면</string>
+		<string>좋습니다.</string>
+		<string>안 좋습니다.</string>
+		<string>좋습니까.</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>이 우유</string>
+		<string>이 주스</string>
+		<string>이 커피</string>
+		<string>마셔도</string>
+		<string>먹어도</string>
+		<string>씹어도</string>
+		<string>됩니까?</string>
+		<string>안됩니까?</string>
+		<string>드십니까?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>오늘</string>
+		<string>내일</string>
+		<string>모래</string>
+		<string>출근 안해도</string>
+		<string>출근 해도</string>
+		<string>퇴근 해도</string>
+		<string>될까요?</string>
+		<string>됩니다?</string>
+		<string>되세요?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>이 책</string>
+		<string>이 잡지</string>
+		<string>이 컴퓨터</string>
+		<string>빌려가면</string>
+		<string>읽어가면</string>
+		<string>찢어가면</string>
+		<string>안될까요?</string>
+		<string>안되시나요?</string>
+		<string>할까요?</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>지금 집에 가도 될까요?</string>
+		<string>집에 가셔도 좋습니다.</string>
+		<string>이 우유 마셔도 됩니까?</string>
+		<string>오늘 출근 안해도 될까요?</string>
+		<string>이 책 빌려가면 안될까요?</string>
+	</array>
+</dict>
+</plist>

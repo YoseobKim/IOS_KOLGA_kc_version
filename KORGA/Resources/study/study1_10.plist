@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>해가 떴습니다. 그리고 구름이 걷혔습니다. </string>
+		<string>해가 뜨고 구름이 걷혔습니다. </string>
+		<string>폭우가 왔습니다. 그래서 강이 범람했습니다. </string>
+		<string>폭우가 와서 강이 범람했습니다. </string>
+		<string>자정이 지났습니다. 그러나 아빠는 돌아오지 않았습니다. </string>
+		<string>자정이 지났으나 아빠는 돌아오지 않았습니다. </string>
+		<string>그런데 지금 엄마는 어디에 계십니까? </string>
+		<string>아빠는 돌아오지 않았는데 엄마는 어디에 계십니까?</string>
+		<string>대학에 가십시오. 그러면 여자 친구가 생길 것입니다. </string>
+		<string>대학에 가면 여자 친구가 생길 것입니다. </string>
+		<string>그래도 여자 친구가 생기지 않았습니다. </string>
+		<string>대학에 가도 여자 친구가 생기지 않았습니다. </string>
+		<string>어쨌든 대학에 합격하니 좋지 않습니까? </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>The sun rose. And clouds have gone. </string>
+		<string>The sun rose and clouds have gone.</string>
+		<string>Heavy rain poured. So the river flooded.</string>
+		<string>Heavy rain poured, so the river flooded. </string>
+		<string>Midnight passed. But dad didn&apos;t come home. </string>
+		<string>Midnight passed but dad didn&apos;t come home. </string>
+		<string>By the way where is mom now?</string>
+		<string>Dad didn&apos;t come home. By the way where is mom now?</string>
+		<string>Go to the university. Then you will get a girl friend.</string>
+		<string>Go to the university then you will get a girl friend.</string>
+		<string>But I couldn&apos;t get a girl friend.</string>
+		<string>After I went to the university, I couldn&apos;t get a girl friend.</string>
+		<string>Anyway isn&apos;t it good that you passed the university?</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Conjunction</string>
+		<string>해:the Sun@@떴습니다: rise@@그리고: and@@구름:cloud@@걷혔습니다@@be set aside</string>
+		<string>뜨고: 뜨다(rise) + 그리고(and)</string>
+		<string>폭우:heavy rain@@그래서: and so@@강: river@@범람했습니다:flood</string>
+		<string>와서: 오다(come) +  그래서(and so)</string>
+		<string>자정: midnight@@지났습니다: pass@@그러나: but@@아빠:dad@@돌아오지:to come@@ 않았습니다:not</string>
+		<string>지났으나 = 지나다(pass) + 그러나(but)</string>
+		<string>그런데: by the way@@지금: now@@어디에: where@@계십니까:( honorific) there is</string>
+		<string>않았는데: 않다( not) + 그런데(by the way) </string>
+		<string>대학: university@@가십시오: please go@@그러면:then@@여자 친구:a girl friend</string>
+		<string>가면: 가다( go) + 그러면 (then)</string>
+		<string>그래도: but</string>
+		<string>가도: 가다(go) + 그래도(but)</string>
+		<string>어쨌든:anyway@@좋지:to happy@@않습니까:isn&apos;t it</string>
+	</array>
+</dict>
+</plist>

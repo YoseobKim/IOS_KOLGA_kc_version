@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>연아씨, 주말에 뭐하세요?</string>
+		<string>주말에 시간 있습니까?</string>
+		<string>주말에 별 약속 없습니다. </string>
+		<string>네. 시간 있습니다. </string>
+		<string>같이 영화보러 가실까요?</string>
+		<string>같이 공원에 가실까요?</string>
+		<string>몇 시에 만날까요?</string>
+		<string>내일 오후 4시에 만나요.</string>
+		<string>어디에서 만날까요?</string>
+		<string>신촌역 1번 출구에서 만나요.</string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>Yuna, What do you do at weekends?</string>
+		<string>Do you have free time at weekends?</string>
+		<string>I don&apos;t have any plan.</string>
+		<string>Yes, I have a free time.</string>
+		<string>Shall we go to a theatre?</string>
+		<string>Shall we go to a park?</string>
+		<string>What time shall we meet?</string>
+		<string>Let&apos;s meet at 4 p.m. </string>
+		<string>At where shall we meet?</string>
+		<string>Let&apos;s meet at exit no. 1 at Sin-chon station. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Making appointment</string>
+		<string></string>
+		<string>시간: time</string>
+		<string>별: any special@@약속: appointment</string>
+		<string></string>
+		<string>같이: together with@@영화보다: watch movie</string>
+		<string>공원: a park</string>
+		<string>몇 시: what time@@만나다: meet</string>
+		<string>내일:  tomorrow@@오후: afternoon</string>
+		<string>어디에서: where</string>
+		<string>신촌역: Sin-chon-station@@1번 출구:  exit no.1</string>
+	</array>
+</dict>
+</plist>

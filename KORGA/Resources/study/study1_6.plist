@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>저는 여행을 좋아합니다.</string>
+		<string>제 취미는 여행입니다.</string>
+		<string>저는 자전거 타는 것을 좋아합니다.</string>
+		<string>저는 잠자는 것을 좋아합니다.</string>
+		<string>등산을 좋아하세요?</string>
+		<string>취미가 무엇입니까?</string>
+		<string>저는 게임매니아입니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>I like traveling.</string>
+		<string>My hobby is traveling.</string>
+		<string>I like riding bicyle. </string>
+		<string>I like sleeping.</string>
+		<string>Do you like hiking?</string>
+		<string>What is your hobby?</string>
+		<string>I am a game mania. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>What I like to do</string>
+		<string>여행: traveling</string>
+		<string>제: my(honorific)@@취미: hobby</string>
+		<string>자전거: bicycle@@타는 것: to ride</string>
+		<string>잠자는 것: to sleep</string>
+		<string></string>
+		<string>취미: hobby</string>
+		<string>게임 매니아: a game mania</string>
+	</array>
+</dict>
+</plist>

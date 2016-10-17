@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>Will you keep quiet indoor?</string>
+		<string>Will you write a letter for me?</string>
+		<string>Please forget me from now. </string>
+		<string>Help yourself. (Literally &quot;Eat much.&quot;)</string>
+		<string>Let&apos;s make it up now.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>실내에서는</string>
+		<string>실외에서는</string>
+		<string>실장에서는</string>
+		<string>조용히</string>
+		<string>시끄럽게</string>
+		<string>떠들게</string>
+		<string>해주십시오.</string>
+		<string>해주십시다.</string>
+		<string>했습니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>편지</string>
+		<string>이메일</string>
+		<string>전화</string>
+		<string>한장만</string>
+		<string>한통만</string>
+		<string>두개만</string>
+		<string>써주시겠습니까?</string>
+		<string>버려주시겠습니까?</string>
+		<string>쓰셨습니까?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>이제 그만</string>
+		<string>이제 또</string>
+		<string>나중에 또</string>
+		<string>나를</string>
+		<string>너를</string>
+		<string>누나를</string>
+		<string>잊어주십시오.</string>
+		<string>잊어버렸습니다.</string>
+		<string>드십시오.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>많이</string>
+		<string>적게</string>
+		<string>조금만</string>
+		<string>드십시오.</string>
+		<string>마십시오.</string>
+		<string>마시십시오.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>이제 그만</string>
+		<string>나중에 그만</string>
+		<string>이제 계속</string>
+		<string>화해합시다.</string>
+		<string>싸웁시다.</string>
+		<string>결투합시다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>실내에서는 조용히 해주십시오.</string>
+		<string>편지 한장만 써주시겠습니까?</string>
+		<string>이제 그만 나를 잊어주십시오.</string>
+		<string>많이 드십시오.</string>
+		<string>이제 그만 화해합시다.</string>
+	</array>
+</dict>
+</plist>

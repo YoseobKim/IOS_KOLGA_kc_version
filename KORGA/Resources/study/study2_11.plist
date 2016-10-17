@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>많이 먹어.</string>
+		<string>많이 드십시오.</string>
+		<string>실내에서는 조용히 해주십시오.</string>
+		<string>편지  한장만 써주시겠습니까?</string>
+		<string>이제 그만 나를 잊어주십시오.</string>
+		<string>저와 사귀지 않겠습니까?</string>
+		<string>이제 그만 화해합시다. </string>
+		<string>슬슬 시작할까요? </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>Help yourself. (Literally &quot;Eat much.&quot;)</string>
+		<string>Please help yourself.</string>
+		<string>Will you keep quiet indoor?</string>
+		<string>Will you write a letter for me?</string>
+		<string>Please forget me from now. </string>
+		<string>Will you go for a date with me?</string>
+		<string>Let&apos;s make it up now.</string>
+		<string>Shall we start now?</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>To order</string>
+		<string>많이: many, much</string>
+		<string>드시다: (honorific)eat</string>
+		<string>실내: indoor@@조용히 하다: keep quiet</string>
+		<string>편지: letter@@한 장: a sheet@@써주다: write</string>
+		<string>이제 그만: from now on@@잊어주다: forget</string>
+		<string>사귀다: date</string>
+		<string>화해하다: reconcile</string>
+		<string>슬슬: a sound that express slowly moving@@시작하다:  start</string>
+	</array>
+</dict>
+</plist>

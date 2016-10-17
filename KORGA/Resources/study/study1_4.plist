@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>저는 여동생이 하나 있습니다. </string>
+		<string>저는 남동생이 없습니다.</string>
+		<string>저에게는 스마트폰이 있습니다.</string>
+		<string>저에게는 스마트폰이 없습니다. </string>
+		<string>저는 꿈이 있습니다. </string>
+		<string>여동생이 있습니까?</string>
+		<string>하늘에 구름이 하나 있습니다. </string>
+		<string>저는 지금 집에 있습니다. </string>
+		<string>저는 지금 집에 없습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>I have a younger sister. </string>
+		<string>I don&apos;t have a younger brother. </string>
+		<string>I have a smart phone.</string>
+		<string>I don&apos;t have a smart phone. </string>
+		<string>I have a dream.</string>
+		<string>Do you have younger sisters?</string>
+		<string>There is cloud in the sky. </string>
+		<string>I am at home now. </string>
+		<string>I am not at home now. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>What I have</string>
+		<string>하나: one@@있습니다: (b. 있다) have, there is</string>
+		<string>없습니다: (b.없다) don&apos;t have, there is not</string>
+		<string>에게는: to me@@스마트폰: smart phone</string>
+		<string></string>
+		<string>꿈: dream</string>
+		<string></string>
+		<string>하늘: sky@@에: at@@구름: cloud</string>
+		<string>지금: now@@집에: at home@@있습니다: there is, am/are/is at</string>
+		<string>없습니다: (b.없다) don&apos;t have, there is not</string>
+	</array>
+</dict>
+</plist>

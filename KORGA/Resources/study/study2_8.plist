@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>이 분은 누구십니까?</string>
+		<string>누구를 찾으십니까?</string>
+		<string>누구와 같이 오셨습니까?</string>
+		<string>누가 제일 착합니까?</string>
+		<string>누구에게 전해드릴까요?</string>
+		<string>누구를 위한 정책입니까?</string>
+		<string>이 아이디어는 누구로부터 나왔습니까?</string>
+		<string>어느 누구도 당신을 좋아하지 않습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>Who is this?</string>
+		<string>Who do you looking for?</string>
+		<string>With whom are you here?</string>
+		<string>Who is the best person?</string>
+		<string>To whom do you want me send this?</string>
+		<string>For whom is this policy ?</string>
+		<string>From whom did this idea come?</string>
+		<string>Nobody loves you.</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Who are you?</string>
+		<string>분: (honorific) a person@@누구: who</string>
+		<string>누구를: 누구(who) + 를(a particle for object)@@찾다: look for</string>
+		<string>누구와: 누구(who) + 와(a particle that means &quot;together with&quot;)</string>
+		<string>누가:  누구(who) + 가(a particle for subject)</string>
+		<string>누구에게: 누구 + 에게(to)@@전해드리다: (honorific) give</string>
+		<string>누구를 위한:  누구 + 를 위한(for)@@정책: policy</string>
+		<string>아이디어: idea@@누구로부터:  누구 + 로부터(from)</string>
+		<string>어느 누구도: anybody else@@당신: you</string>
+	</array>
+</dict>
+</plist>

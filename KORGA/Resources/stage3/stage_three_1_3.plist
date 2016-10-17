@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>Who is this?</string>
+		<string>What is this?</string>
+		<string>What do your sister for a living?</string>
+		<string>Is your brother kind?</string>
+		<string>Is it nice weather today?</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>이것은</string>
+		<string>이분은</string>
+		<string>너는</string>
+		<string>무엇입니까?</string>
+		<string>어디입니까?</string>
+		<string>누구입니까?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>이것은</string>
+		<string>이분은</string>
+		<string>너는</string>
+		<string>무엇입니까?</string>
+		<string>누구입니까?</string>
+		<string>어디입니까?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>어머니의</string>
+		<string>이분의</string>
+		<string>여동생의</string>
+		<string>취미는</string>
+		<string>직업은</string>
+		<string>이름은</string>
+		<string>친절합니까?</string>
+		<string>무엇입니까?</string>
+		<string>누구입니까?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>여동생은</string>
+		<string>남동생은</string>
+		<string>아버지는</string>
+		<string>친절합니까?</string>
+		<string>누구입니까?</string>
+		<string>어디입니까?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>오늘</string>
+		<string>어제</string>
+		<string>내일</string>
+		<string>직업이</string>
+		<string>이름이</string>
+		<string>날씨가</string>
+		<string>무엇입니까?</string>
+		<string>좋습니까?</string>
+		<string>친절합니까?</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>이분은 누구입니까?</string>
+		<string>이것은 무엇입니까?</string>
+		<string>여동생의 직업은 무엇입니까?</string>
+		<string>남동생은 친절합니까?</string>
+		<string>오늘 날씨가 좋습니까?</string>
+	</array>
+</dict>
+</plist>

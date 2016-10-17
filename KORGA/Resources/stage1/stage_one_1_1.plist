@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>That&apos;s all right.</string>
+		<string>I (honorific)</string>
+		<string>am, are, is</string>
+		<string>Yes</string>
+		<string>No</string>
+		<string>English Teacher</string>
+		<string>American</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>괜찮습니다.</string>
+		<string>저는</string>
+		<string>~입니다.</string>
+		<string>예</string>
+		<string>아니오</string>
+		<string>영어선생님</string>
+		<string>미국사람</string>
+	</array>
+</dict>
+</plist>

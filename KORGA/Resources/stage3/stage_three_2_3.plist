@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>Do you have free time at weekends?</string>
+		<string>I don&apos;t have any plan.</string>
+		<string>Shall we go to a theatre?</string>
+		<string>At where shall we meet?</string>
+		<string>What time shall we meet?</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>주말에</string>
+		<string>주중에</string>
+		<string>휴일에</string>
+		<string>시간</string>
+		<string>돈</string>
+		<string>영화</string>
+		<string>있습니까?</string>
+		<string>없습니까?</string>
+		<string>있답니다?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>주말에</string>
+		<string>주중에</string>
+		<string>휴일에</string>
+		<string>별 약속</string>
+		<string>별 약수</string>
+		<string>별 약국</string>
+		<string>없습니다.</string>
+		<string>있습니다.</string>
+		<string>없다더군요.</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>같이</string>
+		<string>따로</string>
+		<string>가족들과</string>
+		<string>영화보러</string>
+		<string>연극보러</string>
+		<string>공연보러</string>
+		<string>가실까요?</string>
+		<string>오실까요?</string>
+		<string>모실까요?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>어디에서</string>
+		<string>저기에서</string>
+		<string>여기에서</string>
+		<string>만날까요?</string>
+		<string>헤어질까요?</string>
+		<string>가실까요?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>몇시에</string>
+		<string>정시에</string>
+		<string>어디에서</string>
+		<string>만날까요?</string>
+		<string>헤어질까요?</string>
+		<string>가실까요?</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>주말에 시간 있습니까?</string>
+		<string>주말에 별 약속 없습니다.</string>
+		<string>같이 영화보러 가실까요?</string>
+		<string>어디에서 만날까요?</string>
+		<string>몇시에 만날까요?</string>
+	</array>
+</dict>
+</plist>

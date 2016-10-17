@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>STAGE 0</string>
+		<string>안녕하세요.</string>
+		<string>안녕히 가세요.</string>
+		<string>안녕히 계세요.</string>
+		<string>고맙습니다.</string>
+		<string>미안합니다.</string>
+		<string>괜찮습니다.</string>
+		<string>반갑습니다.</string>
+		<string>저는 톰입니다.</string>
+		<string>아니오.</string>
+		<string>예.</string>
+		<string>저는 영어 선생님입니다.</string>
+		<string>저는 미국 사람입니다.</string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>STAGE 0</string>
+		<string>Good morning(afternoon, evening).</string>
+		<string>Good bye.</string>
+		<string>Good bye. (to the host)</string>
+		<string>Thank you.</string>
+		<string>I am sorry.</string>
+		<string>That&apos;s alright.</string>
+		<string>Glad to meet you.</string>
+		<string>I am Tom.</string>
+		<string>No.</string>
+		<string>Yes.</string>
+		<string>I am a English teacher.</string>
+		<string>I am American.</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Introducing</string>
+		<string> </string>
+		<string> </string>
+		<string> </string>
+		<string> </string>
+		<string> </string>
+		<string> </string>
+		<string> </string>
+		<string>저: I(honorific)@는: a particle for subject@입니다: am, are, is (formal)</string>
+		<string> </string>
+		<string> </string>
+		<string>영어 선생님: English teacher</string>
+		<string>미국 사람: American@영국 사람: English@캐나다 사람: Canadian@호주 사람: Australian</string>
+	</array>
+</dict>
+</plist>

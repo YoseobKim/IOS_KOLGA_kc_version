@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>저는 엄마보다 아빠가 더 좋습니다. </string>
+		<string>저는 세상에서 엄마가 제일 좋습니다. </string>
+		<string>동생이 저보다 못생겼습니다. </string>
+		<string>동생은 세상에서 가장 착합니다. </string>
+		<string>한국에서 제일 큰 섬은 제주도입니다. </string>
+		<string>두번째로 큰 섬은 울릉도입니다. </string>
+		<string>조금만 더 힘냅시다. </string>
+		<string>더 노력할 수록 큰 댓가가 돌아올 것입니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>I prefer dad to mom.</string>
+		<string>I like mom the most all over the world. </string>
+		<string>My younger brother is uglier than me.</string>
+		<string>My yougner brother is the best guy in the world.</string>
+		<string>The biggest island is a Jeju.</string>
+		<string>The second biggest island is Woolungdo.</string>
+		<string>Let&apos;s try harder a little more.</string>
+		<string>The harder you try, you will get bigger gain.</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Comparison</string>
+		<string>~보다:better than@@더: more@@좋습니다: like</string>
+		<string>세상에서: in the world@@제일: the best</string>
+		<string>동생:younger brother/sister@@못생겼습니다: ugly</string>
+		<string>가장: the most@@착합니다:nice</string>
+		<string>한국: Korea@@큰: big, large@@섬:  a island@@제주도: Jeju</string>
+		<string>두번째로:second biggest@@ 울릉도: Woolungdo</string>
+		<string>조그만:a little@@더: more@@ 힘냅시다: get more strength</string>
+		<string>더:more@@노력할 수록:when you try@@큰: big@@댓가: gain@@돌아올 것입니다: will come</string>
+	</array>
+</dict>
+</plist>

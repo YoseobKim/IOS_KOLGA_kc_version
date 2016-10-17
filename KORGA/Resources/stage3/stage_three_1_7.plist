@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>I can speak Korean.</string>
+		<string>I can not speak Japanese.</string>
+		<string>Can Yuna drive?</string>
+		<string>I can not eat meat.</string>
+		<string>I would not eat meat.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>너는</string>
+		<string>그는</string>
+		<string>저는</string>
+		<string>일본말을</string>
+		<string>한국말을</string>
+		<string>중국말을</string>
+		<string>할 수 있습니다.</string>
+		<string>할 수 없습니다. </string>
+		<string>할 수 있습니까?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>너는</string>
+		<string>그는</string>
+		<string>저는</string>
+		<string>일본말을</string>
+		<string>한국말을</string>
+		<string>중국말을</string>
+		<string>할 수 있습니다.</string>
+		<string>할 수 없습니다.</string>
+		<string>할 수 있습니까?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>연아씨는</string>
+		<string>저는</string>
+		<string>친구는</string>
+		<string>한국말을</string>
+		<string>일본말을</string>
+		<string>운전을</string>
+		<string>할 수 있습니다.</string>
+		<string>할 수 없습니다.</string>
+		<string>할 수 있습니까?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>고기를</string>
+		<string>음식을</string>
+		<string>한국 음식을</string>
+		<string>잘 먹습니다.</string>
+		<string>못 먹습니다.</string>
+		<string>안 먹습니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>고기를</string>
+		<string>음식을</string>
+		<string>한국 음식을</string>
+		<string>잘 먹습니다.</string>
+		<string>못 먹습니다.</string>
+		<string>안 먹습니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>저는 한국말을 할 수 있습니다.</string>
+		<string>저는 일본말을 할 수 없습니다.</string>
+		<string>연아씨는 운전을 할 수 있습니까?</string>
+		<string>저는 고기를 못 먹습니다.</string>
+		<string>저는 고기를 안 먹습니다.</string>
+	</array>
+</dict>
+</plist>

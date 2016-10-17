@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>I like traveling.</string>
+		<string>My hobby is traveling.</string>
+		<string>I like sleeping.</string>
+		<string>Do you like hike?</string>
+		<string>What is your hobby?</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>너는</string>
+		<string>저는</string>
+		<string>그는</string>
+		<string>친구를</string>
+		<string>꿈이</string>
+		<string>여행을</string>
+		<string>좋아하지 않습니다.</string>
+		<string>있습니다.</string>
+		<string>좋아합니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>제</string>
+		<string>취미는</string>
+		<string>직업은</string>
+		<string>친구는</string>
+		<string>여행입니다.</string>
+		<string>직업입니다.</string>
+		<string>있습니다.</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>그는</string>
+		<string>너는</string>
+		<string>저는</string>
+		<string>먹는 것을</string>
+		<string>예쁩니다</string>
+		<string>잠자는 것을</string>
+		<string>싫어합니다.</string>
+		<string>좋아합니다.</string>
+		<string>좋아하지 않습니다.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>등산을</string>
+		<string>수영을</string>
+		<string>베드민턴을</string>
+		<string>좋아하세요?</string>
+		<string>싫어하세요?</string>
+		<string>좋아요?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>취미가</string>
+		<string>특기가</string>
+		<string>전공이</string>
+		<string>무엇입니까?</string>
+		<string>무슨입니까?</string>
+		<string>좋아합니까?</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>저는 여행을 좋아합니다.</string>
+		<string>제 취미는 여행입니다.</string>
+		<string>저는 잠자는 것을 좋아합니다.</string>
+		<string>등산을 좋아하세요?</string>
+		<string>취미가 무엇입니까?</string>
+	</array>
+</dict>
+</plist>

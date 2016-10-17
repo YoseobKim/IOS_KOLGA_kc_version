@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>What time is it now?</string>
+		<string>What time does the movie begin?</string>
+		<string>How long this match continues?</string>
+		<string>How long have you go to office?</string>
+		<string>I have been going this office for 40 years.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>4</integer>
+		<integer>4</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>지금</string>
+		<string>나중에</string>
+		<string>저번에</string>
+		<string>몇시</string>
+		<string>7시</string>
+		<string>수원시</string>
+		<string>입니까?</string>
+		<string>입니다?</string>
+		<string>일까요?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>영화는</string>
+		<string>연극은</string>
+		<string>극장은</string>
+		<string>언제</string>
+		<string>어디서</string>
+		<string>얼마나</string>
+		<string>시작합니까?</string>
+		<string>끝납니까?</string>
+		<string>끝날까요?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>이 경기는</string>
+		<string>이 연극은</string>
+		<string>이 미팅은</string>
+		<string>언제</string>
+		<string>얼마나</string>
+		<string>언제나</string>
+		<string>오래</string>
+		<string>짧게</string>
+		<string>순간</string>
+		<string>계속됩니까?</string>
+		<string>끝납니까?</string>
+		<string>시작합니까?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>얼마나</string>
+		<string>언제나</string>
+		<string>어디서나</string>
+		<string>오래</string>
+		<string>짧게</string>
+		<string>순간</string>
+		<string>직장을</string>
+		<string>학교를</string>
+		<string>병원을</string>
+		<string>다녔습니까?</string>
+		<string>시작합니까?</string>
+		<string>나왔습니까?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>사십년 동안</string>
+		<string>삽십년 동안</string>
+		<string>사십개월 동안</string>
+		<string>직장을</string>
+		<string>병원을</string>
+		<string>학교를</string>
+		<string>다녔습니다.</string>
+		<string>시작합니다.</string>
+		<string>나왔습니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>지금 몇시 입니까?</string>
+		<string>영화는 언제 시작합니까?</string>
+		<string>이 경기는 얼마나 오래 계속됩니까?</string>
+		<string>얼마나 오래 직장을 다녔습니까?</string>
+		<string>사십년 동안 직장을 다녔습니다.</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>My brother didn&apos;t go to school yesterday. </string>
+		<string>Becasuse my brother was sick.</string>
+		<string>Why didn&apos;t you do your homework?</string>
+		<string>I was late cause of my brother. </string>
+		<string>All my success is because of you.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>4</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>동생은</string>
+		<string>친구는</string>
+		<string>언니는</string>
+		<string>어제</string>
+		<string>오늘</string>
+		<string>내일</string>
+		<string>학교에</string>
+		<string>회사에</string>
+		<string>집에</string>
+		<string>가지 않았습니다.</string>
+		<string>갔습니다.</string>
+		<string>왔습니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>왜냐하면</string>
+		<string>그러나</string>
+		<string>그래서</string>
+		<string>동생이</string>
+		<string>형이</string>
+		<string>언니가</string>
+		<string>아팠기 때문입니다.</string>
+		<string>잘 잤기 때문입니다.</string>
+		<string>올랐기 때문입니다.</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>무엇때문에</string>
+		<string>무엇인가</string>
+		<string>무지때문에</string>
+		<string>숙제를</string>
+		<string>숙적을</string>
+		<string>학교를</string>
+		<string>안했습니까?</string>
+		<string>했습니까?</string>
+		<string>잘했습니다?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>동생</string>
+		<string>월드컵</string>
+		<string>게으름</string>
+		<string>때문에</string>
+		<string>해서</string>
+		<string>했기에</string>
+		<string>늦었습니다.</string>
+		<string>빨랐습니다.</string>
+		<string>잊었습니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>이게 다</string>
+		<string>이것도</string>
+		<string>저것도</string>
+		<string>선생님</string>
+		<string>선장님</string>
+		<string>부모님</string>
+		<string>덕분입니다.</string>
+		<string>했습니다.</string>
+		<string>않았습니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>동생은 어제 학교에 가지 않았습니다.</string>
+		<string>왜냐하면 동생이 아팠기 때문입니다.</string>
+		<string>무엇때문에 숙제를 안했습니까?</string>
+		<string>동생 때문에 늦었습니다.</string>
+		<string>이게 다 선생님 덕분입니다.</string>
+	</array>
+</dict>
+</plist>

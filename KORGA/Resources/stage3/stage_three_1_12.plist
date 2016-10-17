@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>What did you do at weekends?</string>
+		<string>Where did you go at your summer vacation?</string>
+		<string>I did sleep all through my weekend at home.</string>
+		<string>I rolled over at my room. </string>
+		<string>That was very fun weekends.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>주말에</string>
+		<string>주중에</string>
+		<string>휴가때</string>
+		<string>뭐 했어요?</string>
+		<string>뭐 할까요?</string>
+		<string>뭐라고요?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>여름 휴가 때</string>
+		<string>겨울 휴가 때</string>
+		<string>연휴 때</string>
+		<string>어디에</string>
+		<string>저기에</string>
+		<string>이곳에</string>
+		<string>왔어요?</string>
+		<string>갔어요?</string>
+		<string>갈까요?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>주말동안</string>
+		<string>주중동안</string>
+		<string>휴가동안</string>
+		<string>집에서</string>
+		<string>학교에서</string>
+		<string>찜질방에서</string>
+		<string>잠만 잤습니다.</string>
+		<string>잠깐 잤습니다.</string>
+		<string>낮잠 잤습니다.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>집에서</string>
+		<string>회사에서</string>
+		<string>학교에서</string>
+		<string>뒹굴거렸습니다.</string>
+		<string>서있었습니다.</string>
+		<string>뛰었습니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>매우</string>
+		<string>매서운</string>
+		<string>매일</string>
+		<string>즐거운</string>
+		<string>슬픈</string>
+		<string>힘든</string>
+		<string>주말이었습니다.</string>
+		<string>주중이었습니다.</string>
+		<string>주간이었습니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>주말에 뭐 했어요?</string>
+		<string>여름 휴가 때 어디에 갔어요?</string>
+		<string>주말동안 집에서 잠만 잤습니다.</string>
+		<string>집에서 뒹굴거렸습니다.</string>
+		<string>매우 즐거운 주말이었습니다.</string>
+	</array>
+</dict>
+</plist>

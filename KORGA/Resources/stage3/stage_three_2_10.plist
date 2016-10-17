@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>Who did steal the painting?</string>
+		<string>What did he steal?</string>
+		<string>How did he escape?</string>
+		<string>Where were you robbed?</string>
+		<string>Why did suspect steal? </string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string> 무엇을</string>
+		<string>어떻게</string>
+		<string>누가</string>
+		<string>그림을</string>
+		<string>학교를</string>
+		<string>휴가를</string>
+		<string>있습니까?</string>
+		<string>좋아합니까?</string>
+		<string>훔쳤습니까?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>무엇을</string>
+		<string>누가</string>
+		<string>어떻게</string>
+		<string>좋아합니까?</string>
+		<string>있습니까?</string>
+		<string>훔쳤습니까?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>무엇을</string>
+		<string>누가</string>
+		<string>어떻게</string>
+		<string>집을</string>
+		<string>학교를</string>
+		<string>병원을</string>
+		<string>탈출하였습니까?</string>
+		<string>좋아합니까?</string>
+		<string>주시겠습니까?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>언제</string>
+		<string>누가</string>
+		<string>어디에서</string>
+		<string>물건을</string>
+		<string>집을</string>
+		<string>휴가를</string>
+		<string>좋아합니까?</string>
+		<string>훔쳤습니까?</string>
+		<string>도난당했습니까?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>범인은</string>
+		<string>왜</string>
+		<string>언제</string>
+		<string>무엇을</string>
+		<string>탈출하였습니까?</string>
+		<string>도난당했습니까?</string>
+		<string>훔쳤습니까?</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>누가 그림을 훔쳤습니까?</string>
+		<string>무엇을 훔쳤습니까?</string>
+		<string>어떻게 집을 탈출하였습니까?</string>
+		<string>어디에서 물건을 도난당했습니까?</string>
+		<string>범인은 왜 훔쳤습니까?</string>
+	</array>
+</dict>
+</plist>

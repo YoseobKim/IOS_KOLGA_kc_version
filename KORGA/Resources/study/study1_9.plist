@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>나는 일찍 일어납니다. </string>
+		<string>사람은 누구나 외롭습니다. </string>
+		<string>누가 유리창을 깼습니까?</string>
+		<string>제가 유리창을 깼습니다. </string>
+		<string>엄마를 위해 복숭아를 샀습니다. </string>
+		<string>동생을 위해 수박을 샀습니다. </string>
+		<string>저는 서울에 살고 있습니다. </string>
+		<string>저는 서울에서 태어났습니다. </string>
+		<string>저 빛은 태양으로부터 옵니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string></string>
+		<string>I wake up early.</string>
+		<string>Everybody is lonely.</string>
+		<string>Who broke window?</string>
+		<string>I did break window.</string>
+		<string>I bought peaches for my mom.</string>
+		<string>I bought a water melon for my yougner brother. </string>
+		<string>I live in Seoul.</string>
+		<string>I born in Seoul. </string>
+		<string>Those rays comes from the Sun.</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Particles</string>
+		<string>나:I@@는:a particle for subject after vowel@@일찍:early@@일어납니다:wake up</string>
+		<string>사람:person@@은: a particle for subject after consonant@@누구나:anybody else@@외롭습니다:lonely</string>
+		<string>누가:who@@유리창:window glass@@을:a particle for object after consonant@@깼습니까:break</string>
+		<string></string>
+		<string>엄마: mom@~위해: for@@복숭아: a peach@@를:a particle for object after vowel@@샀습니다:buy</string>
+		<string>동생: younger brother@@수박: a water melon@@을: a particle for object after consonant</string>
+		<string>서울: Seoul@@~에:at@@살고 있습니다:live</string>
+		<string>~에서:from, at@@태어났습니다: be born</string>
+		<string>저: that@@빛: ray@@태양: the Sun@@~으로부터: from, out of@@옵니다: come</string>
+	</array>
+</dict>
+</plist>

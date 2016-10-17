@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>저는 한국 영화를 좋아합니다. </string>
+		<string>저는 한국 음식을 좋아합니다. </string>
+		<string>저는 한국 음식을 좋아하지 않습니다. </string>
+		<string>저는 한국 영화를 싫어합니다. </string>
+		<string>어떤 영화를 좋아하세요?</string>
+		<string>제일 좋아하는 영화는 무엇입니까? </string>
+		<string>제일 좋아하는 한국영화는 올드보이입니다. </string>
+		<string>가장 좋아하는 한국음식은 불고기입니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>I like Korean movies.</string>
+		<string>I like Korean foods.</string>
+		<string>I don&apos;t like Korean foods.</string>
+		<string>I hate Korean movie. </string>
+		<string>Which movie do you like?</string>
+		<string>What is your favorite movie?</string>
+		<string>My favorite Korean movie is Old boy. </string>
+		<string>My favorite Korean food is Bulgogi. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>What I like</string>
+		<string>저:I (honorific)@@한국 영화: Korean movie@@좋아합니다: (b.좋아하다) like</string>
+		<string>한국 음식: Korean food</string>
+		<string>좋아하지: (b.좋아하다) to like@@않습니다: (b.않다) do not</string>
+		<string>싫어합니다: (b.싫어하다) hate</string>
+		<string>어떤: which@@ 좋아하세요: (b.좋아하다) like</string>
+		<string>제일: the best, the most@@무엇입니까: what is</string>
+		<string>올드보이: Old Boy</string>
+		<string>가장: the best, the most@@불고기: Bulgogi</string>
+	</array>
+</dict>
+</plist>

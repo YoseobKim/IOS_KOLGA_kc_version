@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>제가 길을 잃었습니다. </string>
+		<string>가까운 지하철 역이 어디에 있습니까?</string>
+		<string>걸어서 갈 수 있을까요?</string>
+		<string>이 길을 따라서 직진하세요.</string>
+		<string>길 끝에 우체국이 보일 것입니다. </string>
+		<string>걸어서 10분 정도 걸립니다. </string>
+		<string>커피숍이 보이면 좌회전하세요.</string>
+		<string>저기서 버스를 타세요.</string>
+		<string>종로역에서 3호선으로 갈아타세요. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>I am lost.</string>
+		<string>Where is the nearst subway station? </string>
+		<string>Can I be there by walk?</string>
+		<string>Go straight along this road.</string>
+		<string>You will see a post office at the end of the road.</string>
+		<string>It takes 10 minutes by walk.</string>
+		<string>When you see a coffee shop, turn left.</string>
+		<string>Over there take a bus.</string>
+		<string>Transfer into line no.3 at Jongno station. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Asking about location</string>
+		<string>길을 잃다: lost direction</string>
+		<string>가까운: near@@지하철역: subway station@@어디: where</string>
+		<string>걷다: walk@@~수 있다: can</string>
+		<string> 길: road@@따라서: along@@직진하다: go straight</string>
+		<string>끝: end@@우체국: a post office@@보이다: show</string>
+		<string>걸리다: take</string>
+		<string>커피숍: coffee shop@@좌회전: turn left</string>
+		<string>저기서: over there@@버스를 타다: take a bus</string>
+		<string>종로역: Jongno station@@3호선: line no.3@@갈아타다: transfer</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>because</string>
+		<string>why</string>
+		<string>sick</string>
+		<string>for what reason</string>
+		<string>because of</string>
+		<string>attribute to</string>
+		<string>feeling</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>왜냐하면</string>
+		<string>왜</string>
+		<string>아프다</string>
+		<string>무엇 때문에</string>
+		<string>때문에</string>
+		<string>덕분입니다</string>
+		<string>기분</string>
+	</array>
+</dict>
+</plist>

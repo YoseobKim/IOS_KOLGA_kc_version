@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>What shall we eat for lunch?</string>
+		<string>What about Bulgogi?</string>
+		<string>Is Korean food Ok for you?</string>
+		<string>The food was delicious.</string>
+		<string>The food was not delicious. </string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>점심</string>
+		<string>아침</string>
+		<string>저녁</string>
+		<string>뭐</string>
+		<string>누구</string>
+		<string>언제</string>
+		<string>먹을까요?</string>
+		<string>마실까요?</string>
+		<string>사실까요?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>불고기는</string>
+		<string>김치는</string>
+		<string>떡갈비는</string>
+		<string>어떻습니까?</string>
+		<string>어떻답니까?</string>
+		<string>괜찮습니까?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>한식</string>
+		<string>중식</string>
+		<string>일식</string>
+		<string>괜찮습니까?</string>
+		<string>싫습니까?</string>
+		<string>나쁩니까?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>음식</string>
+		<string>분식</string>
+		<string>일식</string>
+		<string>맛있었습니다.</string>
+		<string>맛없었습니다.</string>
+		<string>맛입니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>음식</string>
+		<string>분식</string>
+		<string>일식</string>
+		<string>맛있었습니다.</string>
+		<string>맛없었습니다.</string>
+		<string>맛입니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>점심 뭐 먹을까요?</string>
+		<string>불고기는 어떻습니까?</string>
+		<string>한식 괜찮습니까?</string>
+		<string>음식 맛있었습니다.</string>
+		<string>음식 맛없었습니다.</string>
+	</array>
+</dict>
+</plist>

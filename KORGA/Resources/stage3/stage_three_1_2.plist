@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>This is my friend.</string>
+		<string>My friend is a student.</string>
+		<string>My friend is nice.</string>
+		<string>My sister is pretty.</string>
+		<string>Sky is blue.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>여기는</string>
+		<string>이 쪽은</string>
+		<string>이 것은</string>
+		<string>어머니</string>
+		<string>아버지</string>
+		<string>제 친구</string>
+		<string>입니다.</string>
+		<string>합니다.</string>
+		<string>갑니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>제 친구는</string>
+		<string>이 쪽은</string>
+		<string>어머니는</string>
+		<string>학생</string>
+		<string>동생</string>
+		<string>선생님</string>
+		<string>입니다.</string>
+		<string>합니다.</string>
+		<string>갑니다.</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>어머니는</string>
+		<string>여동생은</string>
+		<string>제 친구는</string>
+		<string>예쁩니다.</string>
+		<string>착합니다.</string>
+		<string>바쁩니다.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>어머니는</string>
+		<string>제 친구는</string>
+		<string>여동생은</string>
+		<string>파랗습니다.</string>
+		<string>예쁩니다.</string>
+		<string>학생입니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>하늘이</string>
+		<string>강이</string>
+		<string>바다가</string>
+		<string>파랗습니다.</string>
+		<string>빨갛습니다.</string>
+		<string>바쁩니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>이 쪽은 제 친구 입니다.</string>
+		<string>제 친구는 학생 입니다.</string>
+		<string>제 친구는 착합니다.</string>
+		<string>여동생은 예쁩니다.</string>
+		<string>하늘이 파랗습니다.</string>
+	</array>
+</dict>
+</plist>

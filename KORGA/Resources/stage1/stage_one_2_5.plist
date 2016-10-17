@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>order</string>
+		<string>menu</string>
+		<string>(food) for 2 person</string>
+		<string>good appetite</string>
+		<string>will eat gratfuly</string>
+		<string>sauce</string>
+		<string>bring me</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>주문</string>
+		<string>메뉴</string>
+		<string>2 인분</string>
+		<string>맛있게 드십시오</string>
+		<string>잘 먹겠습니다</string>
+		<string>소스</string>
+		<string>주십시오</string>
+	</array>
+</dict>
+</plist>

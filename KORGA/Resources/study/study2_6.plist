@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>등산화를 하나 사고 싶은데요.</string>
+		<string>이것 가격이 얼마인가요?</string>
+		<string>사이즈가 안맞네요.</string>
+		<string>더 큰 사이즈가 있나요?</string>
+		<string>다른 색깔로 보여주시겠습니까?</string>
+		<string>비싸군요.</string>
+		<string>좀 더 싼 것은 없습니까?</string>
+		<string>더 둘러보고 선택하겠습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>I would like to buy a pair of climbing shoes.</string>
+		<string>How much does it cost?</string>
+		<string>This shoe doesn&apos;t fit for my foot.</string>
+		<string>Do you have a bigger size?</string>
+		<string>Will you show me one with different color?</string>
+		<string>This is expensive.</string>
+		<string>Do you have cheaper one?</string>
+		<string>I will decide after looking around more. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>At a shop</string>
+		<string>등산화: climbing shoes</string>
+		<string>가격: the price@@얼마: how much</string>
+		<string>사이즈: size@@ 안맞다:  not fit</string>
+		<string>큰: larger</string>
+		<string>다른: another@@색깔: color</string>
+		<string>비싸다: expensive</string>
+		<string>싸다: cheap</string>
+		<string>둘러보다:  look around@@선택하다: select</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>이분은 누구입니까? </string>
+		<string>이것은 무엇입니까? </string>
+		<string>여동생의 직업은 무엇입니까? </string>
+		<string>남동생은 무슨 일을 합니까?</string>
+		<string>남동생은 친절합니까? </string>
+		<string>오늘 날씨가 좋습니까? </string>
+		<string>네, 그렇습니다. </string>
+		<string>아니오, 그렇지 않습니다. </string>
+		<string>잘 모르겠습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>Who is this? </string>
+		<string>What is this?</string>
+		<string>What is your younger sister&apos;s profession? </string>
+		<string>What does your younger brother do for a living?</string>
+		<string>Is your younger brother kind?</string>
+		<string>Is it nice weather today?</string>
+		<string>Yes, it is.</string>
+		<string>No, it isn&apos;t. </string>
+		<string>I don&apos;t know well. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Asking</string>
+		<string>이분: this person@@누구: who@@입니까: (b.이다)  am. are, is</string>
+		<string>이것: this @@무엇: what</string>
+		<string>여동생: a younger sister@@직업: profession</string>
+		<string>남동생: a younger brother@@합니까: (b.하다) do</string>
+		<string>친절합니까: (b.친절하다) kind</string>
+		<string>좋습니까: (b.좋다) good</string>
+		<string>네: yes@@그렇습니다 (b.그러하다)  it is so</string>
+		<string>아니오: no@@그렇지 않습니다 (b.그렇지 않다)  it is not </string>
+		<string>잘: well@@모르겠습니다: (b.모르겠다) don&apos;t know</string>
+	</array>
+</dict>
+</plist>

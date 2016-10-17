@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>I have a sister.</string>
+		<string>I don&apos;t have a brother.</string>
+		<string>I have dream.</string>
+		<string>Do you have a sister?</string>
+		<string>I am at home now.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>4</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>4</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>남동생이</string>
+		<string>친구가</string>
+		<string>여동생이</string>
+		<string>하나</string>
+		<string>매우</string>
+		<string>자주</string>
+		<string>갑니다. </string>
+		<string>있습니다.</string>
+		<string>없습니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>여동생이</string>
+		<string>남동생이</string>
+		<string>친구가</string>
+		<string>없습니다.</string>
+		<string>많습니다.</string>
+		<string>있습니다. </string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>꿈이</string>
+		<string>잠이</string>
+		<string>힘이</string>
+		<string>없습니다.</string>
+		<string>많습니다.</string>
+		<string>있습니다.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>남동생이</string>
+		<string>여동생이</string>
+		<string>친구가</string>
+		<string>없습니까?</string>
+		<string>많습니까?</string>
+		<string>있습니까?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>지금</string>
+		<string>방금</string>
+		<string>언제</string>
+		<string>회사에</string>
+		<string>학교에</string>
+		<string>집에</string>
+		<string>학교에</string>
+		<string>있습니까?</string>
+		<string>있습니다.</string>
+		<string>없습니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>저는 여동생이 하나 있습니다.</string>
+		<string>저는 남동생이 없습니다.</string>
+		<string>저는 꿈이 있습니다.</string>
+		<string>여동생이 있습니까?</string>
+		<string>저는 지금 집에 있습니다.</string>
+	</array>
+</dict>
+</plist>

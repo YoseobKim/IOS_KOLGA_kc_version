@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>하루 일과가 어떻게 됩니까?</string>
+		<string>주말에 보통 무엇을 합니까?</string>
+		<string>저는 매일 아침 7시에 일어납니다. </string>
+		<string>회사에 9시까지 출근합니다. </string>
+		<string>회사에서 열심히 일을 합니다. </string>
+		<string>저녁 7시에 집으로 갑니다. </string>
+		<string>가끔 친구와 술을 마십니다. </string>
+		<string>주말에는 친구를 만납니다. </string>
+		<string>주말에는 청소를 합니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>What is your daily routine?</string>
+		<string>What do you do at weekends?</string>
+		<string>I wake up 7 a.m. every morning.</string>
+		<string>I go to office till 9 a.m.</string>
+		<string>I work hard at my office.</string>
+		<string>I go home at 7 p.m.</string>
+		<string>I often drink with my friends.</string>
+		<string>I hang out with my friends at weekends.</string>
+		<string>I clean my roon at weekends. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Daily routine</string>
+		<string>하루 일과:daily routine@@ 어떻게:how@@됩니까:(b.되다) am/are/is, become</string>
+		<string>주말: weekends@@보통:normally@@무엇:what@@합니까?:(b.하다) do</string>
+		<string>매일: everyday@@아침:morning@@7시에:at 7 o&apos;clock@@일어납니다: wake up</string>
+		<string>회사:an office@@9시까지:till 9 o&apos;clock@@ 출근합니다:go to working place</string>
+		<string>열심히:(work) hard@@일:job</string>
+		<string>집으로:home@@갑니다: go</string>
+		<string>가끔:often@@친구:a friend@@~와:with@@술:alcohol</string>
+		<string>~에는:at@@만납니다: meet</string>
+		<string>청소:to clean</string>
+	</array>
+</dict>
+</plist>

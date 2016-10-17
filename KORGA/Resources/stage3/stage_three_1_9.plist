@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>I wake up early.</string>
+		<string>Everybody is lonely.</string>
+		<string>Who broke window?</string>
+		<string>I bought peaches for mom.</string>
+		<string>I live in Seoul.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>나는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>늦게</string>
+		<string>일찍</string>
+		<string>빨리</string>
+		<string>일어납니다.</string>
+		<string>외롭습니다.</string>
+		<string>있습니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>나는</string>
+		<string>너는</string>
+		<string>사람은</string>
+		<string>누구나</string>
+		<string>고기를</string>
+		<string>운전을</string>
+		<string>일어납니다.</string>
+		<string>외롭습니다.</string>
+		<string>있습니다.</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>누가</string>
+		<string>언제</string>
+		<string>나는</string>
+		<string>복숭아를</string>
+		<string>서울에</string>
+		<string>유리창을</string>
+		<string>샀습니까?</string>
+		<string>깼습니까?</string>
+		<string>있습니까?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>나를 위해</string>
+		<string>너를 위해</string>
+		<string>엄마를 위해</string>
+		<string>복숭아를</string>
+		<string>서울에</string>
+		<string>유리창을</string>
+		<string>샀습니다.</string>
+		<string>깼습니다.</string>
+		<string>있습니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>서울에</string>
+		<string>한국에</string>
+		<string>부산에</string>
+		<string>사고 있습니다. </string>
+		<string>살고 있습니다.</string>
+		<string>갈고 있습니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>나는 일찍 일어납니다.</string>
+		<string>사람은 누구나 외롭습니다.</string>
+		<string>누가 유리창을 깼습니까?</string>
+		<string>엄마를 위해 복숭아를 샀습니다.</string>
+		<string>저는 서울에 살고 있습니다.</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>저는 한국말을 할 수 있습니다. </string>
+		<string>저는 한국말을 잘 못합니다. </string>
+		<string>저는 일본말을 할 수 없습니다. </string>
+		<string>저는 중국말을 할 줄 모릅니다. </string>
+		<string>연아씨는 운전을 할 수 있습니까?</string>
+		<string>아니오. 저는 운전을 못합니다. </string>
+		<string>요즘은 운전을 하지 않습니다. </string>
+		<string>저는 고기를 못먹습니다. </string>
+		<string>저는 고기를 안먹습니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>I can speak Korean.</string>
+		<string>I can not speak Korean well.</string>
+		<string>I can not speak Japanese.</string>
+		<string>I can not speak Chinese.</string>
+		<string>Yun-a, Can you drive a car?</string>
+		<string>No, I can not drive. </string>
+		<string>Nowadays, I don&apos;t drive. </string>
+		<string>I can not eat meat.</string>
+		<string>I don&apos;t eat meat. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Can &amp; can&apos;t</string>
+		<string>한국말:Korean@@할:(b. 하다) to do@@~수 있습니다: (b.수 있다)can</string>
+		<string>잘: well@@못합니다:(b.못하다) can not</string>
+		<string>~수 없습니다:(b.수 없다) can not</string>
+		<string>~줄 모릅니다:(b.줄 모르다)cant not</string>
+		<string>씨(miss/ mr@@운전: to drive</string>
+		<string></string>
+		<string>요즘:nowadays@@않습니다:(b.않다) not (do) </string>
+		<string>고기:meat@@못먹습니다:( b.못먹다) can not eat</string>
+		<string>안먹습니다:( b.안먹다)would not eat</string>
+	</array>
+</dict>
+</plist>

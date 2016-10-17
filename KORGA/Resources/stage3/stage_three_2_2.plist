@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>What do you do on this weekends?</string>
+		<string>Where do you go for coming vacation?</string>
+		<string>At this weekends I am planning to hike. </string>
+		<string>I will take a rest at home. </string>
+		<string>I will eat meal at restaurant. </string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>이번</string>
+		<string>저번</string>
+		<string>다음</string>
+		<string>주말에</string>
+		<string>주중에</string>
+		<string>휴가때</string>
+		<string>뭐하세요?</string>
+		<string>뭐라고요?</string>
+		<string>어디라고요?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>이번</string>
+		<string>저번</string>
+		<string>다음</string>
+		<string>휴가</string>
+		<string>병가</string>
+		<string>일과</string>
+		<string>어디가세요?</string>
+		<string>저기가세요?</string>
+		<string>거기가세요?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>이번 주말에</string>
+		<string>저번 주말에</string>
+		<string>이번 주중에</string>
+		<string>등산을</string>
+		<string>운전을</string>
+		<string>낚시를</string>
+		<string>할 계획입니다.</string>
+		<string>할 계획이 없습니다.</string>
+		<string>할 사람을 찾습니다.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>내일</string>
+		<string>어제</string>
+		<string>오늘</string>
+		<string>집에서</string>
+		<string>학교에서</string>
+		<string>산에서</string>
+		<string>쉴 예정입니다.</string>
+		<string>일 합니다.</string>
+		<string>쉽니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>식당에서</string>
+		<string>방에서</string>
+		<string>놀이터에서</string>
+		<string>밥을</string>
+		<string>술을</string>
+		<string>주스를</string>
+		<string>먹을 것입니다.</string>
+		<string>마실 것입니다.</string>
+		<string>입을 것입니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>이번 주말에 뭐하세요?</string>
+		<string>이번 휴가 어디가세요?</string>
+		<string>이번 주말에 등산을 할 계획입니다.</string>
+		<string>내일 집에서 쉴 예정입니다.</string>
+		<string>식당에서 밥을 먹을 것입니다.</string>
+	</array>
+</dict>
+</plist>

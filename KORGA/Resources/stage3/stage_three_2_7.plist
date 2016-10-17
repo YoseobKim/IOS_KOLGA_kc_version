@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>I am lost.</string>
+		<string>Where is the nearst subway station? </string>
+		<string>Can I be there by walk?</string>
+		<string>Go straight along this road.</string>
+		<string>Over there take a bus.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>4</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>제가</string>
+		<string>그가</string>
+		<string>그녀가</string>
+		<string>길을</string>
+		<string>길이</string>
+		<string>돈을</string>
+		<string>잃었습니다.</string>
+		<string>없었습니다.</string>
+		<string>벌었습니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>가까운</string>
+		<string>먼</string>
+		<string>고까운</string>
+		<string>지하철 역이</string>
+		<string>버스 정류소가</string>
+		<string>택시 역이</string>
+		<string>어디에</string>
+		<string>저기에</string>
+		<string>거기에</string>
+		<string>있습니까?</string>
+		<string>없습니까?</string>
+		<string>있습니다?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>걸어서</string>
+		<string>차타고</string>
+		<string>뛰어서</string>
+		<string>갈 수</string>
+		<string>올 수</string>
+		<string>들를 수</string>
+		<string>있을까요?</string>
+		<string>없을가요?</string>
+		<string>있습니다?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>이 길을</string>
+		<string>저 길을</string>
+		<string>저기서</string>
+		<string>따라서</string>
+		<string>버스를</string>
+		<string>택시를</string>
+		<string>직진하세요.</string>
+		<string>타세요.</string>
+		<string>뛰세요.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>이 길을</string>
+		<string>저 길을</string>
+		<string>저기서</string>
+		<string>따라서</string>
+		<string>버스를</string>
+		<string>택시를</string>
+		<string>직진하세요.</string>
+		<string>타세요.</string>
+		<string>뛰세요.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>제가 길을 잃었습니다.</string>
+		<string>가까운 지하철 역이 어디에 있습니까?</string>
+		<string>걸어서 갈 수 있을까요?</string>
+		<string>이 길을 따라서 직진하세요.</string>
+		<string>저기서 버스를 타세요.</string>
+	</array>
+</dict>
+</plist>

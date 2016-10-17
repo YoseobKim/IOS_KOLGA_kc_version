@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>who is?</string>
+		<string>for whom</string>
+		<string>with whom</string>
+		<string>who</string>
+		<string>to whom</string>
+		<string>from whom</string>
+		<string>anybody else</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>누구입나까? </string>
+		<string>누구를</string>
+		<string>누구와</string>
+		<string>누가</string>
+		<string>누구에게</string>
+		<string>누구로부터</string>
+		<string>어느 누구도</string>
+	</array>
+</dict>
+</plist>

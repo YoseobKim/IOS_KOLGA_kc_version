@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>I am Tom.</string>
+		<string>Good bye. (to guest)</string>
+		<string>Good bye. (to host)</string>
+		<string>I am American.</string>
+		<string>I am English Teacher</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>탐</string>
+		<string>홈</string>
+		<string>곰</string>
+		<string>입니다.</string>
+		<string>합니다.</string>
+		<string>갑니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>안녕히</string>
+		<string>멀리</string>
+		<string>빨리</string>
+		<string>가세요.</string>
+		<string>오세요.</string>
+		<string>하세요.</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>안녕히</string>
+		<string>멀리</string>
+		<string>빨리</string>
+		<string>계세요.</string>
+		<string>오세요.</string>
+		<string>하세요.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>미국 사람</string>
+		<string>영국 사람</string>
+		<string>캐나다 사람</string>
+		<string>입니다.</string>
+		<string>합니다.</string>
+		<string>갑니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>그는</string>
+		<string>영어 선생님</string>
+		<string>국어 선생님</string>
+		<string>수학 선생님</string>
+		<string>입니다.</string>
+		<string>합니다.</string>
+		<string>갑니다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>저는 탐 입니다.</string>
+		<string>안녕히 가세요.</string>
+		<string>안녕히 계세요.</string>
+		<string>저는 미국 사람 입니다.</string>
+		<string>저는 영어 선생님 입니다.</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>a friend</string>
+		<string>a student</string>
+		<string>a mother</string>
+		<string>a teacher</string>
+		<string>nice</string>
+		<string>pretty</string>
+		<string>kind</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>친구</string>
+		<string>학생</string>
+		<string>어머니</string>
+		<string>선생님</string>
+		<string>착합니다</string>
+		<string>예쁩니다</string>
+		<string>친절합니다</string>
+	</array>
+</dict>
+</plist>

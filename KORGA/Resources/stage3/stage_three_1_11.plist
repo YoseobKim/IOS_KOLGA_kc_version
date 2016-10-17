@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>I prefer dad to mom.</string>
+		<string>I like mom the most all over the world. </string>
+		<string>My yougner brother is the best guy in the world.</string>
+		<string>The biggest island is a Jeju.</string>
+		<string>Let&apos;s try harder a little more.</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>4</integer>
+		<integer>4</integer>
+		<integer>4</integer>
+		<integer>4</integer>
+		<integer>2</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>우리는</string>
+		<string>엄마보다</string>
+		<string>아빠보다</string>
+		<string>할머니보다</string>
+		<string>아빠가</string>
+		<string>엄마가</string>
+		<string>동생이</string>
+		<string>더 좋습니다.</string>
+		<string>덜 좋습니다.</string>
+		<string>조금 좋습니다.</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>저는</string>
+		<string>너는</string>
+		<string>우리는</string>
+		<string>세상에서</string>
+		<string>우주에서</string>
+		<string>바다에서</string>
+		<string>엄마가</string>
+		<string>형이</string>
+		<string>아빠가</string>
+		<string>제일 좋습니다.</string>
+		<string>제일 싫습니다.</string>
+		<string>조금 좋습니다.</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>동생은</string>
+		<string>친구는</string>
+		<string>학생은</string>
+		<string>세상에서</string>
+		<string>우주에서</string>
+		<string>지구에서</string>
+		<string>가장</string>
+		<string>조금</string>
+		<string>약간</string>
+		<string>착합니다.</string>
+		<string>못됩니다.</string>
+		<string>착할까요.</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>한국에서</string>
+		<string>미국에서</string>
+		<string>지구에서</string>
+		<string>제일</string>
+		<string>조금</string>
+		<string>별로</string>
+		<string>큰 섬은</string>
+		<string>작은 섬은</string>
+		<string>큰 대륙은</string>
+		<string>제주도 입니다.</string>
+		<string>제주도가 아닙니다.</string>
+		<string>제주시 입니다.</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>조금만</string>
+		<string>많이</string>
+		<string>반만</string>
+		<string>더 힘냅시다.</string>
+		<string>더 힘 빠집시다.</string>
+		<string>덜 힙냅시다.</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>저는 엄마보다 아빠가 더 좋습니다.</string>
+		<string>저는 세상에서 엄마가 제일 좋습니다.</string>
+		<string>동생은 세상에서 가장 착합니다.</string>
+		<string>한국에서 제일 큰 섬은 제주도 입니다.</string>
+		<string>조금만 더 힘냅시다.</string>
+	</array>
+</dict>
+</plist>

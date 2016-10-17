@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>Stage 0</string>
+		<string>지금 집에 가도 될까요?</string>
+		<string>네. 집에 가셔도 좋습니다. </string>
+		<string>이 우유 마셔도 됩니까? </string>
+		<string>아니오. 그것은 상한 우유입니다. </string>
+		<string>이 책 빌려가면 안될까요?</string>
+		<string>오늘 출근안해도 될까요?</string>
+		<string>오늘 하루만 쉬게 해주십시오.</string>
+		<string>오늘 하루만 쉬겠습니다. </string>
+		<string>앞으로 평생 출근하지 않으셔도 됩니다. </string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Stage 0</string>
+		<string>May I go home now?</string>
+		<string>Yes, you can go home.</string>
+		<string>Can I drink this milk?</string>
+		<string>No, that&apos;s rotten milk.</string>
+		<string>Can I borrow this book? </string>
+		<string>Can&apos;t I stay home without not going to work today?</string>
+		<string>Let me stay home without going for work for today only.</string>
+		<string>I will stay home without going for work. </string>
+		<string>You don&apos;t need to come to office forever. </string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Permission</string>
+		<string>될까요?: may I?</string>
+		<string>가셔도 좋습니다: it is ok that you go</string>
+		<string>우유: milk@@마시다: drink@@됩니까? : may I?</string>
+		<string>아니오: no@@그것: that@@상한: rotten@@우유: milk</string>
+		<string>책: book@@빌려가다: borrow@@안될까요?: May not I?</string>
+		<string>출근하다: go to work</string>
+		<string>하루: one day@@쉬게 해주다: let someone rest</string>
+		<string>쉬다: rest</string>
+		<string>없습니다: (b.없다) don&apos;t have, there is not</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<array>
+		<string>prefer to</string>
+		<string>like~the most</string>
+		<string>ugly</string>
+		<string>in the world</string>
+		<string>the most</string>
+		<string>the biggest </string>
+		<string>a little more</string>
+	</array>
+	<key>Kor</key>
+	<array>
+		<string>더 좋다</string>
+		<string>제일 좋다</string>
+		<string>못생겼습니다</string>
+		<string>세상에서</string>
+		<string>가장</string>
+		<string>제일 큰</string>
+		<string>조금만 더</string>
+	</array>
+</dict>
+</plist>

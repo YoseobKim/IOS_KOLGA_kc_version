@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kor</key>
+	<array>
+		<string>석가탑</string>
+		<string>근정전</string>
+		<string>첨성대</string>
+		<string>고려청자</string>
+		<string>금동대향로</string>
+		<string>N 서울 타워</string>
+		<string>돌 하르방</string>
+		<string>무궁화</string>
+		<string>반가사유상</string>
+		<string>석굴암</string>
+		<string>세종대왕</string>
+		<string>신라금관</string>
+		<string>이순신 장군</string>
+		<string>사물놀이</string>
+		<string>탈춤</string>
+		<string>경회루</string>
+		<string>다보탑</string>
+		<string>숭례문</string>
+		<string>청계천</string>
+		<string>팔만대장경</string>
+		<string>민화</string>
+		<string>씨름</string>
+		<string>팽이와 연</string>
+		<string>쥐불놀이</string>
+	</array>
+	<key>Eng</key>
+	<array>
+		<string>Seokgatap</string>
+		<string>Geunjeongjeon</string>
+		<string>Cheomseongdae</string>
+		<string>Goryeo ware</string>
+		<string>Gilt-bronze Incense Burner of Baekje</string>
+		<string>N Seoul Tower</string>
+		<string>Dol hareubang</string>
+		<string>rose of sharon</string>
+		<string>Bangasayusang</string>
+		<string>Seokguram</string>
+		<string>Sejong the Great</string>
+		<string>Crown of Silla</string>
+		<string>Yi Sun-sin</string>
+		<string>Samul nori</string>
+		<string>Talchum</string>
+		<string>Gyeonghoeru</string>
+		<string>Dabotap</string>
+		<string>Namdaemun</string>
+		<string>Cheonggyecheon</string>
+		<string>Tripitaka Koreana</string>
+		<string>Minhwa</string>
+		<string>Ssireum</string>
+		<string>Folk games(paengi &amp; kite)</string>
+		<string>Jwibulnori</string>
+	</array>
+	<key>Desc</key>
+	<array>
+		<string>Seokgatap (Sakyamuni Pagoda) is a stone pagoda in South Korea designated as the 21st National Treasure on December 12, 1962.</string>
+		<string>geunjeongjeon also known as Geunjeongjeon Hall, is the throne hall where the king formally granted audiences to his officials, gave declarations of national importance, and greeted foreign envoys and ambassadors during the Joseon Dynasty. The building was designated as Korea&apos;s National Treasure No. 223 on January 8, 1985.</string>
+		<string>Cheomseongdae is an astronomical observatory in Gyeongju, South Korea. Cheomseongdae means star-gazing tower in Korean. Cheomseongdae is the oldest surviving observatory in East Asia, and one of the oldest scientific installations on Earth.</string>
+		<string>Goryeo ware refers to all types of Korean pottery and porcelains produced during the Goryeo dynasty.</string>
+		<string>The Gilt-bronze Incense Burner of Baekje is the 287th National Treasure of Korea and was designated on May 30, 1996. It is currently housed at the Buyeo National Museum.The Gilt-bronze Incense Burner of Baekje is a symbol of the artistry of the Baekje people and a masterpiece of Korean art.</string>
+		<string>The N Seoul Tower, officially the CJ Seoul Tower and commonly known as the Namsan Tower and Seoul Tower, is a communication and observation tower located on Namsan Mountain in central Seoul, South Korea.</string>
+		<string>Dol hareubangs, also called tol harubangs, hareubangs, harubangs, are large mushroom-like statues found on Jeju Island off the southern tip of Korea.</string>
+		<string>The flower&apos;s name in Korean is Mugunghwa (Korean Hangul: 무궁화, Hanja: 無窮花) meaning &apos;immortal flower&apos;. Mugunghwa (Rose of Sharon) has been loved by Koreans for thousands of years, as far back as the Gojoseon era.</string>
+		<string>The Bangasayusang, or Geumdong Mireuk Bosal Bangasayusang (literally Gilt-Bronze Maitreya Bodhisattva Half-sitting Thinking Statue), is a gilt-bronze statue of what is believed to be the Maitreya, the future Buddha, in a semi-seated contemplative pose. </string>
+		<string>The Seokguram Grotto is a hermitage and part of the Bulguksa temple complex. It lies four kilometers east of the temple on Mt. Tohamsan, in Gyeongju, South Korea. </string>
+		<string>Sejong the Great (May 15, 1397 – April 8, 1450, r. 1418–1450) was the fourth king of the Joseon Dynasty of Korea. During his reign, he reinforced Korean Confucian policies and executed major legal amendments (공법; 貢法). He also used the creation of Hangul and the advancement of technology to expand his territory.</string>
+		<string>The crowns of Silla were made in the Korean kingdom of Silla approximately in the fifth and sixth centuries of the Common Era.The Silla crowns are some of the most spectacular treasures uncovered in the tumuli of Gyeongju, South Korea, the capital of Silla and Unified Silla.</string>
+		<string>Yi Sun-shin (April 28, 1545 – December 16, 1598) was a Korean naval commander, famed for his victories against the Japanese navy during the Imjin war in the Joseon Dynasty, and is well-respected for his exemplary conduct on and off the battlefield not only by Koreans, but by Japanese Admirals as well.</string>
+		<string>Samul nori is a genre of traditional percussion music originating in Korea. The word samul means &quot;four objects&quot; and nori means &quot;play&quot;; samul nori is performed with four traditional Korean musical instruments: Kkwaenggwari (a small gong) Jing (a larger gong) Janggu (an hourglass-shaped drum) Buk (a barrel drum similar to the bass drum) The traditional Korean instruments are called pungmul.</string>
+		<string>Talchum could be characterized as a Korean dance performed while wearing a mask, miming, speaking and even sometimes singing.</string>
+		<string>Gyeonghoeru (Hangul: 경회루; Hanja: 慶會樓), also known as Gyeonghoeru Pavilion, is a hall used to hold important and special state banquets during the Joseon Dynasty. It is registered as Korea&apos;s National Treasure No. 224 on January 8, 1985.</string>
+		<string>The stone pagoda Dabotap, also known as pagoda of many treasures, is located in the temple of Bulguksa in Gyeongju, South Korea.It has a staircase on each of the four sides. Four stone square pillars support the pagoda&apos;s first roof, where is build a square stone railing.</string>
+		<string>Namdaemun, officially the Sungnyemun, is one of the Eight Gates in the Fortress Wall of Seoul, South Korea, which surrounded the city in the Joseon Dynasty. The gate, which was begun in the 14th century, is a historic pagoda-style gateway, and is now listed first among the National Treasures of South Korea.</string>
+		<string>Cheonggyecheon (Hangul: 청계천) is an 8.4 km (5.2 miles) long, modern public recreation space in downtown Seoul, South Korea. The massive urban renewal project is on the site of a stream that flowed before the rapid post-war economic development required it to be covered by transportation infrastructure.</string>
+		<string>The Tripitaka Koreana (lit. Goryeo Tripitaka) or Palman Daejanggyeong (&quot;Eighty-Thousand Tripitaka&quot;) is a Korean collection of the Tripitaka (Buddhist scriptures, and the Sanskrit word for &quot;three baskets&quot;), carved onto 81,258 wooden printing blocks in the 13th century.</string>
+		<string>Minhwa art refers to the Korean folk art that consists of paintings of mythical figures and other objects in a specific plain, straightforward and naive style. Literally &quot;painting of the people&quot; or &quot;popular painting&quot;. </string>
+		<string>Ssireum (Hangul: 씨름, Hanja: 種競) or Korean wrestling is a folk wrestling style and traditional national sport of Korea.</string>
+		<string>Many traditional games are associated with the Korean New Year.</string>
+		<string>Daeboreum (Hangul: 정월대보름) is a day celebrating the first full moon of the new year. Traditionally, group of people plays a traditional game called Geuybulnori (Hangul: 쥐불놀이) a night before or on the day of Daeboreum. Farmers burn hays of dry grass on ridges between the rice fields while other people whirl around few cans with a lot of holes which allowed charcoals to fire inside the cans. </string>
+	</array>
+</dict>
+</plist>

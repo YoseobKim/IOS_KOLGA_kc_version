@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>Who is this?</string>
+		<string>With whom are you here?</string>
+		<string>From whom did this idea come?</string>
+		<string>To whom do you want me send this?</string>
+		<string>For whom is this policy ?</string>
+	</array>
+	<key>QNumOfRows</key>
+	<array>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+	</array>
+	<key>QExamples1</key>
+	<array>
+		<string>이 분은</string>
+		<string>저 여자는</string>
+		<string>그 남자는</string>
+		<string>누구십니까?</string>
+		<string>누구입니다?</string>
+		<string>친구입니까?</string>
+	</array>
+	<key>QExamples2</key>
+	<array>
+		<string>누구와</string>
+		<string>가족과</string>
+		<string>친구와</string>
+		<string>같이</string>
+		<string>따로</string>
+		<string>다르게</string>
+		<string>오셨습니까?</string>
+		<string>가셨습니까?</string>
+		<string>왔을까요?</string>
+	</array>
+	<key>QExamples3</key>
+	<array>
+		<string>아이디어는</string>
+		<string>아이는</string>
+		<string>어른은</string>
+		<string>누구로부터</string>
+		<string>누구에게나</string>
+		<string>누구나</string>
+		<string>나왔습니까?</string>
+		<string>나왔습니다?</string>
+		<string>들어왔습니까?</string>
+	</array>
+	<key>QExamples4</key>
+	<array>
+		<string>누구에게</string>
+		<string>그녀에게</string>
+		<string>당신에게</string>
+		<string>전해드릴까요?</string>
+		<string>전해주실래요?</string>
+		<string>전해주십니다?</string>
+	</array>
+	<key>QExamples5</key>
+	<array>
+		<string>누구를 위한</string>
+		<string>그녀를 위한</string>
+		<string>누구나를 위한</string>
+		<string>정책입니까?</string>
+		<string>정책입니다?</string>
+		<string>정치입니까?</string>
+	</array>
+	<key>Answers</key>
+	<array>
+		<string>이 분은 누구십니까?</string>
+		<string>누구와 같이 오셨습니까?</string>
+		<string>아이디어는 누구로부터 나왔습니까?</string>
+		<string>누구에게 전해드릴까요?</string>
+		<string>누구를 위한 정책입니까?</string>
+	</array>
+</dict>
+</plist>
